@@ -1,0 +1,74 @@
+style.css{}
+
+body{
+    background: burlywood;
+}
+.MalzemeListesi{
+    border: 7px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    width: 270px;
+}
+.TarifSırası{
+     border: 7px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    width: 550px;
+}
+
+.MalzemelerBaslık{
+    border: 10px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    width: 90px;
+    background-color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.TarifBaslık{
+    border: 10px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    width: 40px;
+    background-color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Ekmek{
+    border: 10px;
+    border-color: purple;
+    border-style: solid;
+    border-radius: 10px;
+    width: 220px;
+    background-color: purple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Baslık{
+    border: 10px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 10px;
+    width: 220px;
+    background-color: gray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.BasYazi{
+    border: 10px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 10px;
+    width: 350px;
+    background-color: gray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Foto{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}

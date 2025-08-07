@@ -1,0 +1,25 @@
+style.css{}
+
+body{
+    background: gray;
+}
+h1{
+    text-align: center;
+    background: red;
+    border: red 8px solid;
+    border-radius: 50px;
+}
+.navbar{
+    background: red;
+    text-align: center;
+    border: red 5px solid;
+    border-radius: 50px;
+}
+p{
+    background: white;
+    border: white 5px solid;
+    border-radius: 50px;
+}
+a{
+    color:black;
+}

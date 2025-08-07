@@ -1,0 +1,28 @@
+style.css{}
+
+body{
+    background:gray;
+}
+br{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ article .üsta{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background: white;
+    border: white 2px solid;
+    border-radius: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar{
+    text-align: center;
+    background: red;
+    border: red 10px solid;
+    border-radius: 80px;
+}
+a{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
